@@ -1,4 +1,4 @@
-//fucking do-while loop
+//do-while loop
 
 #include <stdio.h>
 void main(){
